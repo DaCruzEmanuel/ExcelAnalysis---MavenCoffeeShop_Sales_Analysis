@@ -21,20 +21,26 @@ The objective is to automate data preparation and create insightful visualizatio
 2. **Explore & Organize Data**  
    For the purpose of this project, the dataset was divided into six monthly reports. Initially, only three months were added to the folder to demonstrate the flexibility of Power Query, which will allow for the easy consolidation of the remaining months later by simply refreshing the data.
 
-3. **Load Data into Power Query**  
+   <img src="https://imgur.com/qY2tZ21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+4. **Load Data into Power Query**  
    All monthly files are consolidated using Power Query, automating the data preparation for future updates. Key tasks include:
    - Data profiling
    - Cleaning and transformation
+  
+<img src="https://imgur.com/a/9dmBoM8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
-4. **Data Exploration & Analysis with Pivot Tables**  
+5. **Data Exploration & Analysis with Pivot Tables**  
    Pivot tables were used to explore and analyze the data by:
    - Revenue by month
    - Revenue by product category
    - Transactions by day, hour, and product type
    - KPIs (number of transactions, total revenue, average sales)
 
-5. **Data Visualization & Communication**  
+6. **Data Visualization & Communication**  
    A comprehensive dashboard was created to visually communicate insights and trends, featuring interactive slicers for filtering by store and month.
 
-6. **Final Considerations & Recommendations**  
+7. **Final Considerations & Recommendations**  
    The dashboard and visualizations provide actionable insights for stakeholders, enabling data-driven decisions.
