@@ -60,7 +60,8 @@ All files for each month are available for download in this repository.
 
 6. **Data Visualization & Communication**  
    A comprehensive dashboard was created to visually communicate insights and trends, featuring interactive slicers for filtering by store and month.
-   You can download the related excel file by clicking: [Consolidated sales file](https://github.com/DaCruzEmanuel/ExcelAnalysis_MavenCoffeeShop_Sales_Analysis/blob/main/Consolidated%20sales%20file.xlsx)
+   You can download the related excel file by clicking on:
+[Consolidated sales file](https://github.com/DaCruzEmanuel/ExcelAnalysis_MavenCoffeeShop_Sales_Analysis/blob/main/Consolidated%20sales%20file.xlsx)
 
 Dashboard before updating new month in "Monthly Sales report" Folder (only 3 first months:
 
@@ -72,6 +73,32 @@ Dashboard before updating new month in "Monthly Sales report" Folder (only 3 fir
 <img src="https://imgur.com/NoquD0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
+7. **Final Considerations & Recommendations**
+    
+The dashboard and visualizations provide several actionable insights, allowing stakeholders to make data-driven decisions for optimizing sales strategies and operations.
 
-7. **Final Considerations & Recommendations**  
-   The dashboard and visualizations provide actionable insights for stakeholders, enabling data-driven decisions.
+   ### Insights:
+   - **Revenue Growth**: There is a clear upward trend in revenues over the first semester of 2023, with steady growth observed each month.
+   - **Top Revenue-Generating Categories**:  
+     - The "Coffee" category is the highest contributor, accounting for 39% of total revenue in the first half of 2023.  
+     - "Tea" category follows closely, contributing 29% of the total revenue.
+   - **Top-Selling Products**:  
+     - The "Barista Espresso" leads as the top revenue-generating product.  
+     - However, the most popular product in terms of sales volume is the "Brewed Chai Tea," which received the highest number of orders.
+   - **Sales Trends**:  
+     - Sales transactions exhibit a similar trend to revenue, with a steady rise over the first semester.  
+     - Mondays, Thursdays, and Fridays show the highest sales activity, though there are monthly fluctuations.
+     - The busiest hours across all locations are between **8:00 AM and 11:00 AM**.
+   - **Store Performance**:  
+     - All three store locations are performing relatively well.  
+     - However, the store in "Lower Manhattan" recorded slightly lower revenue compared to the other two locations.
+
+   ### Recommendations:
+   - **Optimize Operating Hours**:  
+     Sales transactions drop significantly after **8:00 PM**, with particularly low activity between **8:00 PM and 9:00 PM** across all stores. For the Lower Manhattan store, this trend begins as early as **7:00 PM**.
+     - **Recommendation**: Consider closing all stores by **8:00 PM** to reduce operational costs and improve profit margins.
+     
+   - **Reinvest in Marketing & Promotions**:  
+     Use the resources saved from reducing operating hours to:
+     - Promote less popular products to increase demand.
+     - Implement targeted campaigns to attract more customers during off-peak hours, particularly at the Lower Manhattan location from **7:00 PM to 8:00 PM**.  
