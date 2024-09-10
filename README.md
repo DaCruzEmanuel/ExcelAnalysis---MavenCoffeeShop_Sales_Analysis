@@ -29,7 +29,7 @@ The objective is to automate data preparation and create insightful visualizatio
    - Data profiling
    - Cleaning and transformation
   
-<img src="https://imgur.com/a/9dmBoM8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0xT53Lv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 5. **Data Exploration & Analysis with Pivot Tables**  
@@ -38,6 +38,9 @@ The objective is to automate data preparation and create insightful visualizatio
    - Revenue by product category
    - Transactions by day, hour, and product type
    - KPIs (number of transactions, total revenue, average sales)
+
+<img src="https://imgur.com/gfBkzcv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 6. **Data Visualization & Communication**  
    A comprehensive dashboard was created to visually communicate insights and trends, featuring interactive slicers for filtering by store and month.
