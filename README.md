@@ -46,14 +46,14 @@ The objective is to automate data preparation and create insightful visualizatio
    A comprehensive dashboard was created to visually communicate insights and trends, featuring interactive slicers for filtering by store and month.
    You can download the related excel file by clicking: [Consolidated sales file]()
 
-   Dashboard before updating new month in "Monthly Sales report" Folder (only 3 first months:
+Dashboard before updating new month in "Monthly Sales report" Folder (only 3 first months:
 
-   <img src="https://imgur.com/8XIoknF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/8XIoknF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
  Dashboard after updating new months in "Monthly Sales report" Folder, and refreshing the data on the "Consolidated Sales file" (all 6 months):
 
-   <img src="https://imgur.com/NoquD0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/NoquD0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 8. **Final Considerations & Recommendations**  
