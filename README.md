@@ -18,13 +18,18 @@ The objective is to automate data preparation and create insightful visualizatio
    - What are the busiest days of the week?
    - Which products generate the most revenue?
 
+
+
 2. **Explore & Organize Data**  
    For the purpose of this project, the dataset was divided into six monthly reports. Initially, only three months were added to the folder to demonstrate the flexibility of Power Query, which will allow for the easy consolidation of the remaining months later by simply refreshing the data.
 
 <img src="https://imgur.com/qY2tZ21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+All files for each month are available for download in this repository.
 
-4. **Import and transform the data in Power Query**
+
+
+3. **Import and transform the data in Power Query**
 
    The power query Editor is directly opened from the "Consolidated sales file"
    
@@ -35,11 +40,14 @@ The objective is to automate data preparation and create insightful visualizatio
 <img src="https://imgur.com/0xT53Lv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-5. **Load the data into the "Consolidated sales file"**
+
+4. **Load the data into the "Consolidated sales file"**
 
 <img src="https://imgur.com/Dl4dtZi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-6. **Data Exploration & Analysis with Pivot Tables**  
+
+
+5. **Data Exploration & Analysis with Pivot Tables**  
    Pivot tables were used to explore and analyze the data by:
    - Revenue by month
    - Revenue by product category
@@ -49,7 +57,8 @@ The objective is to automate data preparation and create insightful visualizatio
 <img src="https://imgur.com/gfBkzcv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-7. **Data Visualization & Communication**  
+
+6. **Data Visualization & Communication**  
    A comprehensive dashboard was created to visually communicate insights and trends, featuring interactive slicers for filtering by store and month.
    You can download the related excel file by clicking: [Consolidated sales file](https://github.com/DaCruzEmanuel/ExcelAnalysis_MavenCoffeeShop_Sales_Analysis/blob/main/Consolidated%20sales%20file.xlsx)
 
@@ -63,5 +72,6 @@ Dashboard before updating new month in "Monthly Sales report" Folder (only 3 fir
 <img src="https://imgur.com/NoquD0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-8. **Final Considerations & Recommendations**  
+
+7. **Final Considerations & Recommendations**  
    The dashboard and visualizations provide actionable insights for stakeholders, enabling data-driven decisions.
