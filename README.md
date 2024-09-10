@@ -53,7 +53,7 @@ The objective is to automate data preparation and create insightful visualizatio
 
  Dashboard after updating new months in "Monthly Sales report" Folder, and refreshing the data on the "Consolidated Sales file" (all 6 months):
 
-   <img src="https://imgur.com/gfBkzcv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <img src="https://imgur.com/NoquD0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 8. **Final Considerations & Recommendations**  
