@@ -51,7 +51,7 @@ The objective is to automate data preparation and create insightful visualizatio
 
 7. **Data Visualization & Communication**  
    A comprehensive dashboard was created to visually communicate insights and trends, featuring interactive slicers for filtering by store and month.
-   You can download the related excel file by clicking: [Consolidated sales file]()
+   You can download the related excel file by clicking: [Consolidated sales file](https://github.com/DaCruzEmanuel/ExcelAnalysis_MavenCoffeeShop_Sales_Analysis/blob/main/Consolidated%20sales%20file.xlsx)
 
 Dashboard before updating new month in "Monthly Sales report" Folder (only 3 first months:
 
