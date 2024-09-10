@@ -21,18 +21,25 @@ The objective is to automate data preparation and create insightful visualizatio
 2. **Explore & Organize Data**  
    For the purpose of this project, the dataset was divided into six monthly reports. Initially, only three months were added to the folder to demonstrate the flexibility of Power Query, which will allow for the easy consolidation of the remaining months later by simply refreshing the data.
 
-   <img src="https://imgur.com/qY2tZ21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img src="https://imgur.com/qY2tZ21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-4. **Load Data into Power Query**  
+
+4. **Import and transform the data in Power Query**
+
+   The power query Editor is directly opened from the "Consolidated sales file"
+   
    All monthly files are consolidated using Power Query, automating the data preparation for future updates. Key tasks include:
    - Data profiling
    - Cleaning and transformation
   
 <img src="https://imgur.com/0xT53Lv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
-5. **Data Exploration & Analysis with Pivot Tables**  
+
+5. **Load the data into the "Consolidated sales file"**
+
+<img src="https://imgur.com/Dl4dtZi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+6. **Data Exploration & Analysis with Pivot Tables**  
    Pivot tables were used to explore and analyze the data by:
    - Revenue by month
    - Revenue by product category
@@ -40,21 +47,21 @@ The objective is to automate data preparation and create insightful visualizatio
    - KPIs (number of transactions, total revenue, average sales)
 
 <img src="https://imgur.com/gfBkzcv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
-6. **Data Visualization & Communication**  
+
+7. **Data Visualization & Communication**  
    A comprehensive dashboard was created to visually communicate insights and trends, featuring interactive slicers for filtering by store and month.
    You can download the related excel file by clicking: [Consolidated sales file]()
 
 Dashboard before updating new month in "Monthly Sales report" Folder (only 3 first months:
 
 <img src="https://imgur.com/8XIoknF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
  Dashboard after updating new months in "Monthly Sales report" Folder, and refreshing the data on the "Consolidated Sales file" (all 6 months):
 
 <img src="https://imgur.com/NoquD0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 8. **Final Considerations & Recommendations**  
    The dashboard and visualizations provide actionable insights for stakeholders, enabling data-driven decisions.
