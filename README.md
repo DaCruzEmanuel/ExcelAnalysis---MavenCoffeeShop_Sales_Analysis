@@ -63,7 +63,7 @@ All files for each month are available for download in this repository.
    You can download the related excel file by clicking on:
 [Consolidated sales file](https://github.com/DaCruzEmanuel/ExcelAnalysis_MavenCoffeeShop_Sales_Analysis/blob/main/Consolidated%20sales%20file.xlsx)
 
-Dashboard before updating new month in "Monthly Sales report" Folder (only 3 first months:
+Dashboard before updating new month in "Monthly Sales report" Folder (only 3 first months):
 
 <img src="https://imgur.com/8XIoknF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
