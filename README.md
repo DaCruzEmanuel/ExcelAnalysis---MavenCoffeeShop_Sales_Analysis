@@ -23,10 +23,9 @@ The objective is to automate data preparation and create insightful visualizatio
 2. **Explore & Organize Data**  
    For the purpose of this project, the dataset was divided into six monthly reports. Initially, only three months were added to the folder to demonstrate the flexibility of Power Query, which will allow for the easy consolidation of the remaining months later by simply refreshing the data.
 
-<img src="https://imgur.com/qY2tZ21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Y7C1SGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 All files for each month are available for download in this repository.
-
 
 
 3. **Import and transform the data in Power Query**
@@ -37,15 +36,11 @@ All files for each month are available for download in this repository.
    - Data profiling
    - Cleaning and transformation
   
-<img src="https://imgur.com/0xT53Lv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
+<img src="https://imgur.com/GvlQbAx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 4. **Load the data into the "Consolidated sales file"**
 
 <img src="https://imgur.com/Dl4dtZi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
 
 5. **Data Exploration & Analysis with Pivot Tables**  
    Pivot tables were used to explore and analyze the data by:
@@ -54,9 +49,7 @@ All files for each month are available for download in this repository.
    - Transactions by day, hour, and product type
    - KPIs (number of transactions, total revenue, average sales)
 
-<img src="https://imgur.com/gfBkzcv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
+<img src="https://imgur.com/2a9pAKV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 6. **Data Visualization & Communication**  
    A comprehensive dashboard was created to visually communicate insights and trends, featuring interactive slicers for filtering by store and month.
