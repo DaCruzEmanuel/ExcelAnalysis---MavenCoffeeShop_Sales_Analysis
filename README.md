@@ -58,7 +58,7 @@ All files for each month are available for download in this repository.
 
 Dashboard before updating new month in "Monthly Sales report" Folder (only 3 first months):
 
-<img src="https://imgur.com/SCh3UKa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6sUJmjC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
  Dashboard after updating new months in "Monthly Sales report" Folder, and refreshing the data on the "Consolidated Sales file" (all 6 months):
 
